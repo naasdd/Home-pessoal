@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-image: url('/src/img/background.gif');
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+}
