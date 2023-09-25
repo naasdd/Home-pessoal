@@ -94,10 +94,10 @@ main{
     
 }
 .item img{
-    margin: 15px auto 3px 0px;
-    width: 130px;
-    height: 130px;
-    border-radius: 10px;
+    margin: 25px auto 20px 0px;
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
     filter: drop-shadow(0px 0px 10px black);
 }
 
